@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👋 Hi there, I'm Farsya<br><br>I'm passionate about frontend development and love turning ideas into engaging and responsive user interfaces. I enjoy working with HTML, CSS, JavaScript, and Vue.js to build clean and functional web applications.<br><br>📌 What I Do<br>Building web UI using Vue JS, React and Bootstrap. Managed the database using MySQL<br><br>📈 Currently Learning<br>I'm currently exploring React, Next JS, and Tailwind CSS to enhance my skills and stay updated with modern web development trends.
 
 # 💻 Tech Stack:
